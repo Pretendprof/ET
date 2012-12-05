@@ -17,7 +17,7 @@ This repository has been set up to keep track of variations of ET code for resea
 
 It includes the original code for the ET v. 3.0 as well as the current form of the base data collection code.
 
-The data collection code is modified to output sensor readings at a faster sample rate along with a timestamp.
+The data collection code (ETDatacollection) is modified to output sensor readings at a faster sample rate along with a timestamp.
 The button has also been repurposed for labeling data. Changes will be tracked with commit comments or in the 
 code itself. 
 
