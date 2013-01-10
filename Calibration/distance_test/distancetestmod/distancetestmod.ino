@@ -68,7 +68,7 @@ Modified by: Maurice Lamb 10-26-12
    //time = millis();
    
    Serial.println();
-   delay(8000);
+   delay(2000);
 
    while(!digitalRead(ButtonPin))
    {
